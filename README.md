@@ -1,5 +1,5 @@
 # sda8-git
 
-Team members: Philipp, Ric, Dena, Tim
+Our team members are: Philipp, Ric, Dena, Tim
 
-[https://en.wikipedia.org/wiki/Java](Java) is an island of Indonesia. The climate is probably tropical.
+Here starts the awesome feature.
