@@ -1,3 +1,3 @@
 # sda8-git
 
-Java is an island of Indonesia. The climate is probably tropical.
+[https://en.wikipedia.org/wiki/Java](Java) is an island of Indonesia. The climate is probably tropical.
